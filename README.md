@@ -6,7 +6,7 @@ Using various statistical tools like Adverse Impact, Chi-Square, Standard Deviat
 
 This analysis is done under every employment desicions like Selection, Promotion, Demotion, or Termination for different fields like:
 
-  **1. Race/Ethnicity (for each EEO Codes)**
+  **1. Race/Ethnicity [for each EEO Codes](https://www.eeoc.gov/employers/eeo-1-survey/eeo-1-instruction-booklet)**
   
   **2. Gender**
   
